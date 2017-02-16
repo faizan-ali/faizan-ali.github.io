@@ -1,1 +1,3 @@
-First Post
+---
+title: First Post
+---
